@@ -1,3 +1,6 @@
+This is a very fast and simple multi-threaded port scanner which utilises Python's threading library which makes it possible to check multiple ports simultaneously, reducing the scan time from hours to minutes.
+
+
 Upon running the script, it request for the host address to be scanned, and the scan type (Common Ports, or Custom Range)
 
 Please see below the list of predefined ports, services that run on them,  the protocol they use, what they are utilised for and the security risk they pose
